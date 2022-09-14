@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Relax|30|cat.gif</item> <!-- 0 -->
+        <item>Ягодичный мостик|x20|most.gif</item> <!-- 1 -->
+        <item>Поднятие ног|30|nogi.gif</item> <!-- 2 -->
+        <item>Ягодичная планка|10|planka.gif</item> <!-- 3 -->
+        <item>Поднятие ног по очередности|x10|podnyatie_nog.gif</item> <!-- 4 -->
+        <item>Пресс|x10|press.gif</item> <!-- 5 -->
+        <item>Сгибание ног|x10|sgibaniya_nog.gif</item> <!--6 -->
+    </string-array>
+
+    <string-array name="day_exercises">
+        <item>2,0,5,0,6</item> <!-- Day 1 -->
+        <item>1,0,3,0,4</item> <!-- Day 2 -->
+        <item>4,0,1,0,5</item> <!-- Day 3 -->
+        <item>2,0,5,0,6</item> <!-- Day 4 -->
+        <item>1,0,3,0,4</item> <!-- Day 5 -->
+        <item>4,0,1,0,5</item> <!-- Day 6 -->
+
+    </string-array>
+</resources>
